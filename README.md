@@ -7,13 +7,4 @@ Application web permettant d'afficher les news récentes par sources d'informati
 <li>News API</li>
 <li>React</li>
 <li>Mongo DB</li>
-<br>
-<H3> Lien vers le site </H3>
-https://tarnof-morningnews.herokuapp.com/
-<br>
-<h4>Identifiants pour le sign-in :</h4>
-
-Mail: john@doe.com
-<br>
-Mot de passe: johndoe
 
